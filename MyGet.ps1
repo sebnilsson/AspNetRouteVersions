@@ -1,4 +1,4 @@
-$project = "./src/AspNetRouteVersion/AspNetRouteVersion.csproj"
+$project = "./src/AspNetRouteVersions/AspNetRouteVersions.csproj"
 
 dotnet restore $project --no-cache
 dotnet build $project --no-restore -c Release
