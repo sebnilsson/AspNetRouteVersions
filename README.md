@@ -1,6 +1,6 @@
 # ASP.NET Route Versions
 
-Inspired by a discussion with a colleague and the great article [**Your API versioning is wrong** by Troy Hunt](https://www.troyhunt.com/your-api-versioning-is-wrong-which-is/), where he concludes that **you don't need a war of preferrences between different ways of versioning your API**, you can actually support multiple ways in the same API.
+The ASP.NET Route Versions-library was built after I was being inspired by a discussion with a colleague and reading the great article [**Your API versioning is wrong** by Troy Hunt](https://www.troyhunt.com/your-api-versioning-is-wrong-which-is/), where he concludes that **you don't need a war of preferences between different ways of versioning your API**, you can actually support multiple ways in the same API.
 
 In his article, Troy lists 3 ways (to do it wrong), which I have implemented for ASP.NET Core, and **added support for one more way**, which is URL versioning. This library supports the following ways to version your API:
 
